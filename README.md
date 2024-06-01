@@ -1,2 +1,2 @@
-# twitter-bot
-A twitter bot created with Ruby.
+# twitter-api
+A twitter api example created with Ruby.
